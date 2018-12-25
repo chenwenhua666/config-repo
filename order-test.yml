@@ -12,3 +12,6 @@ spring:
       ddl-auto: update
 env:
   test4
+author:
+  name: crystal
+  age: 20
